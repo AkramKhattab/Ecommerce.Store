@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Service.deps.json
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Service.dll
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Service.pdb
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Core.dll
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Repository.dll
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Repository.pdb
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\bin\Debug\net8.0\Ecommerce.Store.Core.pdb
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerc.B9D54025.Up2Date
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.dll
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\refint\Ecommerce.Store.Service.dll
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\Ecommerce.Store.Service.pdb
+C:\Users\LENOVO\source\repos\Ecommerce.Store\Ecommerce.Store.Service\obj\Debug\net8.0\ref\Ecommerce.Store.Service.dll
